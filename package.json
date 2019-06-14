@@ -1,0 +1,22 @@
+{
+  "name": "global-styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oriechinedu/global-styles.git"
+  },
+  "author": "Orie Chinedu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oriechinedu/global-styles/issues"
+  },
+  "homepage": "https://github.com/oriechinedu/global-styles#readme",
+  "dependencies": {
+    "styled-components": "^4.3.1"
+  }
+}
